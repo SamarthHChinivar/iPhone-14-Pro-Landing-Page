@@ -1,6 +1,6 @@
 # iPhone 14 Pro Landing Page
 - The website is similar to the Apple iPhone 14’s landing page, which is built using React.js, WebGi, Three.js, and GSAP ScrollTrigger.
-- Experience this website <a href='https://i-phone-14-pro-landing-page.vercel.app'>LIVE</a>
+- Experience this website <a href='https://i-phone-14-pro-landing-page.vercel.app' target='_blank'>LIVE</a>
 
 ![iPhone14Pro-1](https://github.com/SamarthHChinivar/iPhone-14-Pro-Landing-Page/assets/104615876/4ed560b8-0581-4088-bda1-2204a7bd78db)
 <br/><br/><br/>
